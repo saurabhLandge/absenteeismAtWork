@@ -40,6 +40,5 @@ performance, scalability, fault tolerance and reliability of the Machine Leanrin
 - Most common reason for absenteeism is infectious diseases, diseases of circulatory system, digestive system, disease of muscuskeletal system and injury.
 -  We have visualised absenteeism time in hours to various reasons of absense
 
-### Vote of thanks
-I would like to thank my professors at Coventry University who helped and motivated me for the project
+t
 
