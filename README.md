@@ -14,20 +14,20 @@ performance, scalability, fault tolerance and reliability of the Machine Leanrin
 - The dataset is from a courier company in Brazil
 - The original Authors of the Dataset are Andrea Martiniano(1), Ricardo Pinto Ferreira(2) and Renato Jose Sassi(3) and can be collected from [UCI ML Repository](https://archive.ics.uci.edu/dataset/445/absenteeism+at+work)
 - There are 21 categories of Diseases, & other metrics that may be a factor to absenteeism of the Employees such as
-- = Date of their absence
-- = Weather / Season
-- = Transportation expense they pay
-- = Distance they travel for work
-- = Time they have been in service
-- = Their Age
-- = Work Load
-- = Disciplinary Failure or not
-- = Education level
-- = Number of children they have
-- = Whether they are social drinker
-- = Whether they are social smoker
-- = Number of pets they have
-- = Height, weight, BMI
+  -  Date of their absence
+  -  Weather / Season
+  -  Transportation expense they pay
+  -  Distance they travel for work
+  -  Time they have been in service
+  -  Their Age
+  -  Work Load
+  -  Disciplinary Failure or not
+  -  Education level
+  -  Number of children they have
+  -  Whether they are social drinker
+  -  Whether they are social smoker
+  -  Number of pets they have
+  -  Height, weight, BMI
 
 
 ### Tools used 
